@@ -176,6 +176,7 @@ footer a:hover{
 @media screen and (max-width:500px){
     main{
         margin-bottom: 50%;
+        padding: 15% 5%;
     }
     .main_projects #the_projects{
         width: 80%;
